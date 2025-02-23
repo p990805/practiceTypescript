@@ -47,3 +47,6 @@ let programmingBook:ProgrammingBook={
     price:3000,
     skill:"react.js"
 }
+
+book = programmingBook;
+   
